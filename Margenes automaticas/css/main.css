@@ -1,0 +1,14 @@
+.uno{
+	width: 200px;
+    height: 250px;     
+    border: 7px solid yellow;
+    padding: 25px 10px;
+    margin-left: 10px;
+}
+.dos{
+	width: 200px;
+    height: 250px;     
+    border: 7px solid yellow;
+    padding: 25px 10px;
+    margin:auto;
+}

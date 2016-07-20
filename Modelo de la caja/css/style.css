@@ -1,0 +1,18 @@
+div{
+	width: 600px;
+    height: 100px;     
+    background: blue;
+    border: 10px solid purple;
+}
+p{
+	width: 70%;
+    height: 30%;     
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 10px dashed red;  
+    padding: 10px 10px 10px 10px ;
+	background-color: #e1ddda;
+	text-align: center;
+} 
